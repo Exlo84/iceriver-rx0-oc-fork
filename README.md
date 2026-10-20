@@ -1,6 +1,8 @@
-# RX0 Firmware Fork
+# IceRiver RX0 OC Firmware Fork
 
-A direct fork of [pbfarmer's IceRiver RXD firmware v0.8.4](https://github.com/rdugan/iceriver-rxd-oc/releases/tag/v0.8.4). The fee pool/account was changed to restore firmware operation, with a matching fee-health timing adjustment. The original mining engine is unchanged. Branding changes were just for fun.
+A direct fork of [pbfarmer's IceRiver RXD firmware v0.8.4](https://github.com/rdugan/iceriver-rxd-oc/releases/tag/v0.8.4). 
+The fee pool/account was changed to restore firmware operation, with a matching fee-health timing adjustment. The original mining engine is unchanged. 
+Small branding changes were just for fun.
 
 All original firmware credit goes to **pbfarmer**. Thanks to **IceRiver** for the hardware and base firmware. This is an unofficial modified release.
 
